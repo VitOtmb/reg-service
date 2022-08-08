@@ -1,0 +1,14 @@
+.footer {
+	height: 90px;
+	background-color: #f6f9f9;
+	display: flex;
+	align-items: center;
+	padding: 38px 0 38px 225px;
+	&__text {
+		font-size: 15px;
+		line-height: 1.2;
+		font-weight: 400;
+		letter-spacing: 0.025em;
+		color: #999999;
+	}
+}
